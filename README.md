@@ -111,7 +111,7 @@ Frontend: JavaScript, Vue.js, Tailwind CSS
 Ferramentas: Git, Docker, Linux
 
 📞 Suporte
-Email: silas.rosario@email.com
+Email: rs0783082@gmail.com
 
 LinkedIn: Silas Rosário
 
